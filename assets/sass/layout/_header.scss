@@ -34,7 +34,7 @@
 				top: calc(-3.5rem - 1px);
 				left: calc(50% - #{_size(border-width) * 1});
 				width: _size(border-width);
-				height: calc(3.5rem + 1px);
+				height: calc(2rem + 1px);
 				background: _palette(border);
 			}
 		}
@@ -50,7 +50,7 @@
 		.logo {
 			width: 5.5rem;
 			height: 5.5rem;
-			line-height: 5.5rem;
+			line-height: 0;
 			border: solid _size(border-width) _palette(border);
 			border-radius: 100%;
 
