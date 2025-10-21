@@ -1,9 +1,9 @@
-    let YY = 2018;
+    let YY = 2025;
     let MM = 11;
-    let DD = 10;
-    let HH = 19;
+    let DD = 1;
+    let HH = 11;
     let MI = 30;
-    let SS = 00;
+    let SS = 0;
 
     function updateCounter() {
         let hoje = new Date();
